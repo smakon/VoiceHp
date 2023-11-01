@@ -44,4 +44,4 @@
 
 
 ## Пользование окном натроек бота
-![Alt text](image.png)
+![Alt text](img/1.png)
