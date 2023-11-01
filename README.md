@@ -24,6 +24,13 @@
 ```sh
     pip install -r requirements.txt
 ```
+так же нужно скачать:
+```sh
+    main.py
+    main.ui
+    example.ini
+    config.py
+```
 ## Пользование ботом
 
 При запуске main.py<br>
