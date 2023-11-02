@@ -18,10 +18,6 @@ print(f"Я {default_['bot_n']}")
 command_name = " "
 
 
-# TODO:
-# Придумать расшифровку Марк: Могучий абстрактный рукоблуд конченный:
-#
-
 def open_program(name):
     pg.press("win")
     pg.typewrite(name)
